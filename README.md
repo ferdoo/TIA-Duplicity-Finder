@@ -1,4 +1,4 @@
-# TIA-Duplicity-Finder
+# Siemens TIA Portal Project Duplicity Finder
 Finds duplicate written tags and instances from TIA openness xml export.
 Works with TIA V15.1 and V16
 
